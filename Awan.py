@@ -863,4 +863,4 @@ def removef():
         AWN(allkey)            
  
 
-main()
+min()
